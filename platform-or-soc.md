@@ -88,6 +88,8 @@ OpenDLP：一个免费的，开源的，基于代理和无代理的，集中管�
 - [fraud-detection-handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)
 - [Real-time Credit card Fraud Detection using Spark 2.2](https://www.udemy.com/course/real-time-creditcard-fraud-detection-using-spark/)
 - [fraud-detection-demo-with-flink](https://github.com/afedulov/fraud-detection-demo?tab=readme-ov-file)
+- [beymani](https://github.com/pranab/beymani)
+- 
 
 #### SIME
 
