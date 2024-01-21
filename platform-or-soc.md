@@ -81,8 +81,8 @@ OpenDLP：一个免费的，开源的，基于代理和无代理的，集中管�
 
 
 #### 开源异常行为监测项目
-- [FraudAlert] (https://github.com/Xiaoling1992/FraudAlert)
-- [fraud-checker-kstreams-springboot] (https://github.com/jaruizes-paradigma/fraud-checker-kstreams-springboot)
+- [FraudAlert](https://github.com/Xiaoling1992/FraudAlert)
+- [fraud-checker-kstreams-springboot](https://github.com/jaruizes-paradigma/fraud-checker-kstreams-springboot)
 - [FraudDetection](https://github.com/pramoddatamantra/FraudDetection/tree/master)
 - [Building A Streaming Fraud Detection System With Kafka And Python](https://florimond.dev/en/posts/2018/09/building-a-streaming-fraud-detection-system-with-kafka-and-python)
 - [fraud-detection-handbook](https://github.com/Fraud-Detection-Handbook/fraud-detection-handbook)
