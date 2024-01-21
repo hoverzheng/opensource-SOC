@@ -1,0 +1,70 @@
+
+
+
+
+**入侵检测**
+
+- [OSSEC](https://link.zhihu.com/?target=https%3A//www.ossec.net/)：一款开源的IDS检测系统，包括了日志分析、完整性检查、rook-kit检测，基于时间的警报和主动响应。
+- [Wazuh](https://link.zhihu.com/?target=http%3A//wazuh.com/)：一个免费的，开源的企业级安全监控解决方案，用于威胁检测，完整性监控，事件响应和合规性。
+- [Suricata](https://link.zhihu.com/?target=https%3A//suricata-ids.org/)：一个免费的开源，成熟，快速和强大的网络威胁检测引擎。
+- [Snort](https://link.zhihu.com/?target=https%3A//www.snort.org/)：网络入侵检测和预防系统。
+- [Osquery](https://link.zhihu.com/?target=https%3A//osquery.io/):一个SQL驱动操作系统检测和分析工具。
+- [Samhain Labs](https://link.zhihu.com/?target=https%3A//www.la-samhna.de/)：用于集中式主机完整性监控的全面开源解决方案。
+- [Firestorm](https://link.zhihu.com/?target=http%3A//www.scaramanga.co.uk/firestorm/)：一种极高性能的网络入侵检测系统（NIDS）。
+- [MozDef](https://link.zhihu.com/?target=https%3A//github.com/mozilla/MozDef)：Mozilla防御平台,一套实时集成化平台，能够实现监控、反应、协作并改进相关保护功能。
+- [驭龙HIDS](https://link.zhihu.com/?target=https%3A//github.com/ysrc/yulong-hids)：开源的主机入侵检测系统。
+- [AgentSmith-HIDS](https://link.zhihu.com/?target=https%3A//github.com/DianrongSecurity/AgentSmith-HIDS)：轻量级的HIDS系统，低性能损失，使用LKM技术的HIDS工具。
+- [Sobek-Hids](https://link.zhihu.com/?target=http%3A//www.codeforge.cn/article/331327)：一个基于python的HostIDS系统。
+- [Security Onion](https://link.zhihu.com/?target=https%3A//securityonion.net/):免费开源网络安全监控系统。
+- [OpenWIPS-ng](https://link.zhihu.com/?target=http%3A//openwips-ng.org/)：一款开源的模块化无线IPS（Intrusion Prevention System，入侵防御系统）。
+- [Moloch](https://link.zhihu.com/?target=https%3A//www.dictionary.com/browse/moloch): 网络流量收集与分析。
+
+
+
+**网络流量分析**
+
+- [Zeek](https://link.zhihu.com/?target=https%3A//www.zeek.org/)：一个功能强大的网络分析框架。
+- [Kismet](https://link.zhihu.com/?target=https%3A//www.kismetwireless.net/)：一种无线网络和设备检测器，嗅探器，驱动工具和WIDS（无线入侵检测）框架。
+
+**SIEM/SOC**
+
+- [OSSIM](https://link.zhihu.com/?target=https%3A//www.alienvault.com/products/ossim)：开源安全信息管理系统，它是一个开源安全信息和事件的管理系统，集成了一系列的能够帮助管理员更好的进行计算机安全，入侵检测和预防的工具。
+- [Apache Metron](https://link.zhihu.com/?target=https%3A//github.com/apache/metron)：一种网络安全应用程序框架，使组织能够检测网络异常并使组织能够快速响应已识别的异常情况。
+- [SIEMonster](https://link.zhihu.com/?target=https%3A//siemonster.com/)：以很小的成本监控整个网络。
+- [w3a_SOC](https://link.zhihu.com/?target=https%3A//github.com/smarttang/w3a_SOC)：Web日志审计与网络监控集合一身的平台。
+- [OpenSOC](https://link.zhihu.com/?target=http%3A//opensoc.github.io/)：致力于提供一个可扩展和可扩展的高级安全分析工具。
+- [Prelude](https://link.zhihu.com/?target=https%3A//www.prelude-siem.org/)：一个结合了其他各种开源工具的SIEM框架。
+- [MozDef](https://link.zhihu.com/?target=https%3A//github.com/jeffbryner/MozDef)：Mozilla防御平台,一套实时集成化平台，能够实现监控、反应、协作并改进相关保护功能。
+
+
+
+**文件存储**
+KodExplorer：可道云，是基于Web技术的私有云在线文档管理解决方案。
+Seafile：一款开源的企业云盘，注重可靠性和性能。
+NextCloud:一款开源网络硬盘系统。
+owncloud：一个基于Linux的开源云项目。
+iBarn：基于PHP的开源网盘。
+Cloudreve：以最低的成本快速搭建公私兼备的网盘系统。
+Filebrowser：一个基于GO的轻量级文件管理系统。
+FileRun：一款强大的多功能网盘和文件管理器。
+kiftd：一款专门面向个人、团队和小型组织的私有网盘系统。
+
+
+
+**安全运维**
+
+Scout： URL 监控系统。
+OpenDnsdb：开源的基于Python语言的DNS管理系统 。
+cuckoo：一个自动化的动态恶意软件分析系统。
+theZoo：一个恶意软件分析项目。
+OpenDLP：一个免费的，开源的，基于代理和无代理的，集中管理，可大规模分发的数据丢失防护工具。
+
+
+
+**风控系统**
+
+- [TH-Nebula](https://link.zhihu.com/?target=https%3A//github.com/threathunterX/nebula)：星云风控系统是一套互联网风控分析和检测平台。
+- [Liudao](https://link.zhihu.com/?target=https%3A//github.com/ysrc/Liudao)：六道”实时业务风控系统。
+- [陌陌风控系统](https://link.zhihu.com/?target=https%3A//github.com/momosecurity/aswan)：静态规则引擎，零基础简易便捷的配置多种复杂规则，实时高效管控用户异常行为。
+- [Drools](https://link.zhihu.com/?target=https%3A//www.drools.org/)：基于java的功能强大的开源规则引擎。
+
