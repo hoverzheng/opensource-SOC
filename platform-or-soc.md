@@ -91,6 +91,13 @@ OpenDLP：一个免费的，开源的，基于代理和无代理的，集中管�
 - [beymani](https://github.com/pranab/beymani)
 - 
 
+#### flink CEP
+
+- 可以动态配置flink的cep(https://github.com/getindata/flink-dynamic-cep-demo/tree/main)
+
+
+
+
 #### SIME
 
 
